@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Jason Cummings, UX Developer & Product Designer.
+### I'm Jason Cummings, Software Engineer & Product Designer.
 
 I'm a creative collaborator with more than 7 years experience in software development and 15 years experience in multiple design industries.
 I'm an experienced human-centered UX designer/developer passionate about creating experiences using empathy, curiosity, and affinity for efficient problem solving.
