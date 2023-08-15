@@ -6,7 +6,7 @@ I'm a creative collaborator with more than 7 years experience in software develo
 I'm an experienced human-centered UX designer/developer passionate about creating experiences using empathy, curiosity, and affinity for efficient problem solving.
 
 📫 How to reach me: 
-You can find my portfolio @ [jasoncummings.com](www.jasoncummings.com), email me at <jason@jasoncummings.com>, or connect on [LinkedIn](www.linkedin.com/in/jsoncummings)
+You can find my portfolio @ [jasoncummings.com](http://www.jasoncummings.com), email me at <jason@jasoncummings.com>, or connect on [LinkedIn](https://www.linkedin.com/in/jsoncummings)
 
 - 💬 Ask me about ux/product design, design systems, semantic HTML, CSS, JS, react, rock climbing, cycling, backpacking, or whatever you're feeling excited about.
 - ⚡ Fun fact: I've had work used in TV shows, movies, & published in magazines.
